@@ -1,3 +1,37 @@
+# 📔 Personal Diary Website
+
+A beautiful and user-friendly personal diary web app built with **React.js**. You can write daily notes, search by title, attach images, and edit or delete entries anytime.
+
+---
+
+## ✨ Features
+
+- 📝 Create diary entries with **title**, **description**, and **date**
+- 📅 Select date when writing entries
+- 🔍 Search diary entries by title
+- 🖼️ Upload images while editing entries
+- 🧹 Delete or edit any saved entry
+- 💾 Save data temporarily in app state (extendable to localStorage or backend)
+- 💅 Clean and attractive responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js
+- **Routing:** React Router DOM
+- **Styling:** Inline CSS with responsive layout
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/personal-diary.git
+cd personal-diary
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
