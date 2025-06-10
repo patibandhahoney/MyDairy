@@ -28,3 +28,6 @@ A beautiful and user-friendly personal diary web app built with **React.js**. Yo
 
 ## Editing Page
 ![Image](https://github.com/user-attachments/assets/69db8afe-0a7c-4580-967c-91c5c9a90418)
+
+## Final Page
+![Image](https://github.com/user-attachments/assets/10616bdc-fde4-494e-9944-5c419239b263)
