@@ -23,5 +23,8 @@ A beautiful and user-friendly personal diary web app built with **React.js**. Yo
 - **Styling:** Inline CSS with responsive layout
 
 ---
-
+## Home Page for Diary
 ![Image](https://github.com/user-attachments/assets/e289e017-4e02-45ee-a80f-454bd8ba6699)
+
+## Editing Page
+
